@@ -16,7 +16,7 @@
 
 .mario{
     position: absolute;
-    bottom: 0px;
+    bottom: 0px;/*52*/
     
 }
 .mario img{
@@ -26,9 +26,8 @@
 .cano{
     position: absolute;
     bottom: -5px;
-    right: -60px;
     animation: animacao_cano 1.5s linear infinite;
-   
+    
 }
 .cano img{
     width: 60px;
