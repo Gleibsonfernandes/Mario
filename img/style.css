@@ -63,7 +63,15 @@
 .logo_mario img{
     width: 80px;
 }
-
+.progresso{
+    position: absolute;
+    font-family: 'Press Start 2P', cursive;
+    color: yellow;
+    font-size: 30px;
+    margin: 100px;
+    
+    text-align: center;
+}
 .gameOver{
     padding: 20px;
     position:absolute;
